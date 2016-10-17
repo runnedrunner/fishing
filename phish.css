@@ -1,3 +1,9 @@
 body {
   background-color: white;
 }
+
+#boder {
+  border: blue;
+  height: 250px;
+  width: 250px;
+}
