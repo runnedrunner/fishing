@@ -2,8 +2,9 @@ body {
   background-color: white;
 }
 
-#boder {
-  border: blue;
+#border {
+  border: 1px solid lightblue;
+  border-color: blue;
   height: 250px;
   width: 250px;
 }
